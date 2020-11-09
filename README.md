@@ -16,7 +16,7 @@ c) LEO geomagnetic energy harvesting, exchange and storage are experimentally ac
 d) LEO geomagnetic energy utilization in space is elementarily verified.
 
 # Video 1: Geomagnetic Erergy (GME) Harvesting Experiment of the Coils
-Under the condition of air floatation, the calibrated resistance torque by the manufacturer of the three-DOF air-bearing platform (ABP) is 10-4Nm, and the ABP can keep still an any angle. In the video, 
+Under the condition of air floatation, the calibrated resistance torque by the manufacturer of the three-DOF air-bearing platform (ABP) is 10e-4Nm, and the ABP can keep still an any angle. In the video, 
 
 a) compared with the other torque in the systems, the resistance torque of the ABP can be ignored. Our experimenter can easily push the systems with the flick of a finger, and then reposition the systems at the angle of the maximum generated magnetic torque (GMT) (perpendicular to the geomagnetic north-south direction).
 
@@ -26,7 +26,7 @@ b) Based on the torque effect of the geomagnetic field, the electrified coils ca
 ![image](https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/blob/main/VideoGif/Video11.gif)
 
 # Video 2: Momentum Conservation Testing of the Systems
-Under the condition of air floatation, the coils without the power supply rotate reversely when actively controlling the delivery subsystem. By this way, we can keep the coils still in the whole experimental process, when the electrified coils have a tendency of rotation under the geomagnetic field. It provides the feasibility of design for the following proof-of-principle experiments.
+Under the condition of air floatation, the coils without the power supply rotate reversely when actively controlling the delivery subsystem. By this way, we can keep the coils still in the whole experimental process, when the electrified coils have a tendency of rotation under the geomagnetic field. It provides the feasibility of design for the following proof-of-principle experiments. 
 
 ![image](https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/blob/main/VideoGif/Video2.gif)
 
@@ -44,5 +44,7 @@ The LEO geomagnetic energy (GME) harvesting, exchange, and storage can finally b
 The final maximum linear velocity without the payload reaches 11.1m/s. The coils can almost keep still in the whole process.
 
 ![image](https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/blob/main/VideoGif/Video5.gif)
+
+# For a complete video source file, please see the VideoSourceFile folder.
 
 
