@@ -23,7 +23,7 @@ a) compared with the other torque in the systems, the resistance torque of the A
 b) Based on the torque effect of the geomagnetic field, the electrified coils can harvest the geomagnetic energy to rotate rapidly to the geomagnetic north-south direction.
 
 ![image](https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/blob/main/VideoGif/Video1.gif)
-![image](https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/tree/main/VideoGif/Video11.gif)
+![image](https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/blob/main/VideoGif/Video11.gif)
 
 # Video 2: Momentum Conservation Testing of the Systems
 Under the condition of air floatation, the coils without the power supply rotate reversely when actively controlling the delivery subsystem. By this way, we can keep the coils still in the whole experimental process, when the electrified coils have a tendency of rotation under the geomagnetic field. It provides the feasibility of design for the following proof-of-principle experiments.
