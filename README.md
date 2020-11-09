@@ -45,6 +45,6 @@ The final maximum linear velocity without the payload reaches 11.1m/s. The coils
 
 ![image](https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/blob/main/VideoGif/Video5.gif)
 
-# For a complete video source file, please see the VideoSourceFile folder.
+# For a complete video source file, please see the VideoSourceFile folder and click https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/tree/main/VideoSourceFile.
 
 
