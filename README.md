@@ -22,4 +22,4 @@ a) compared with the other torque in the systems, the resistance torque of the A
 
 b) based on the torque effect of the geomagnetic field, the electrified coils can harvest the geomagnetic energy to rotate rapidly to the geomagnetic north-south direction.
 
-![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Vedio 1_coils-geomagnetic-erergy-harvesting-experiment.gif)
+![image](https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/tree/main/VideoGif/Vedio 1_coils-geomagnetic-erergy-harvesting-experiment.gif)
