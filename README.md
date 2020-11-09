@@ -18,9 +18,9 @@ d) LEO geomagnetic energy utilization in space is elementarily verified.
 # Video 1: Geomagnetic Erergy (GME) Harvesting Experiment of the Coils
 Under the condition of air floatation, the calibrated resistance torque by the manufacturer of the three-DOF air-bearing platform (ABP) is 10-4Nm, and the ABP can keep still an any angle. In the video, 
 
-a) compared with the other torque in the systems, the resistance torque of the ABP can be ignored. Our experimenter can easily push the systems with the flick of a finger, and then reposition the systems at the angle of the maximum generated magnetic torque (GMT) (perpendicular to the geomagnetic north-south direction);
+a) compared with the other torque in the systems, the resistance torque of the ABP can be ignored. Our experimenter can easily push the systems with the flick of a finger, and then reposition the systems at the angle of the maximum generated magnetic torque (GMT) (perpendicular to the geomagnetic north-south direction).
 
-b) based on the torque effect of the geomagnetic field, the electrified coils can harvest the geomagnetic energy to rotate rapidly to the geomagnetic north-south direction.
+b) Based on the torque effect of the geomagnetic field, the electrified coils can harvest the geomagnetic energy to rotate rapidly to the geomagnetic north-south direction.
 
 ![image](https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/tree/main/VideoGif/Video1.gif)
 ![image](https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/tree/main/VideoGif/Video11.gif)
