@@ -1,7 +1,7 @@
 # Proof of Principle Experiment of Geomagnetic Energy Effect for LEO Debris Deorbiting
 The current space debris population is rapidly growing, and over 70% of debris is distributed between the 500 km to 1000 km low earth orbit (LEO). No existing method or technique appears to be both technically feasible and economically viable for LEO debris removal.
 
-A year ago we proposed the novel high-efficiency geomagnetic energy (GME) propellant approach to LEO (orbital altitude is less than 1000 km) space debris deorbiting, a new space momentum exchange approach from the angular kinetic energy to the linear kinetic energy; besides, we gave two kinds of spin angular momentum accumulation (SAMA) strategies to continuously store angular momentum for the spacecraft-debris system. To understand details of the GME approach and the SAMA, please refer to https://doi.org/10.1155/2019/5876861.
+A year ago we proposed the novel high-efficiency geomagnetic energy (GME) propellant approach to LEO (orbital altitude is less than 1000 km) space debris deorbiting, a novel space momentum exchange approach from the angular kinetic energy to the linear kinetic energy; besides, we gave two kinds of spin angular momentum accumulation (SAMA) strategies to continuously store angular momentum for the spacecraft-debris system. To understand details of the GME approach and the SAMA, please refer to https://doi.org/10.1155/2019/5876861.
 
 To verify the effect of LEO GME, the first ground-based proof-of-principle experimental systems is developed, and the systems modeling and control are treated. Then systems testing and calibration, and proof-of-principle experiments of GME effect are done.
 
@@ -29,6 +29,7 @@ b) Based on the torque effect of the geomagnetic field, the electrified coils ca
 Under the condition of air floatation, the coils without the power supply rotate reversely when actively controlling the delivery subsystem. By this way, we can keep the coils still in the whole experimental process, when the electrified coils have a tendency of rotation under the geomagnetic field. It provides the feasibility of design for the following proof-of-principle experiments. 
 
 ![image](https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/blob/main/VideoGif/Video2.gif)
+![image](https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/blob/main/VideoGif/Video21.gif)
 
 # Video 3: Initial State of GME Effect Experiments with 2kg Payload
 The coils can harvest the geomagnetic energy (GME) to accelerate when electrified, and rotate with the different acceleration under the different generated magnetic torque. The coils keep still by the active control of the delivery subsystem, and the GME is then exchanged to the angular kinetic energy of the delivery subsystem and stored to the linear kinetic energy of the targeted debris.
