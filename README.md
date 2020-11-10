@@ -7,7 +7,7 @@ To verify the effect of LEO GME, the first ground-based proof-of-principle exper
 
 Highlights
 
-a) Geomagnetic energy propellant approach can achieve LEO debris rapid deorbiting.
+a) Novel geomagnetic energy propellant approach can achieve LEO debris rapid deorbiting.
 
 b) First ground proof-of-principle experimental systems is developed.
 
